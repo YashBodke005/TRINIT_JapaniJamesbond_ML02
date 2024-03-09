@@ -36,6 +36,8 @@ The model is evaluated on:
 - *Hamming Score*: For the multi-classification model accuracy.
 - *XAI Metrics*: Assessing the Explainable AI components through Identity, Separability, Similarity, and Stability.
 
+# Link to YouTube Video with notebook explanation - https://www.youtube.com/watch?v=qlsw6RZBbg8
+
 
    
 ![avg_impact](https://github.com/YashBodke005/TRINIT_JapaniJamesbond_ML02/assets/98110257/9c4bb2fb-adfa-436f-991a-8c0bc1591604)
